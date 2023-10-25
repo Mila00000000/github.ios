@@ -1,0 +1,125 @@
+body{
+    font-family: monospace;
+}
+header{
+    background-color: rgb(216, 216, 213);
+    padding: 15px;
+
+}
+h1{
+    color: white;
+    font-size: 24px;
+    text-shadow: 5px 2px 4px rgb(112, 111, 111);
+}
+h2{
+    color: white;
+    text-shadow: 5px 2px 4px rgb(112, 111, 111);
+    text-align: center;
+}
+.wiwi:hover{
+    transition: .4s;
+    width: 25px;
+}
+.kiki{
+    background-color: rgb(255, 233, 233);
+    padding: 15px;
+}
+
+h3{
+    color: rgb(49, 49, 49);
+    text-shadow: 1px 1px 1px rgb(112, 111, 111);
+}
+h4{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+     
+}
+.lulun{
+    background-color: rgb(216, 216, 213);
+    padding: 15px;
+}
+h5{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+    text-shadow: 1px 1px 1px rgb(112, 111, 111);  
+}
+h6{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;  
+}
+.dudun{
+    background-color: rgb(255, 233, 233);
+    padding: 15px; 
+}
+h7{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+    text-shadow: 1px 1px 1px rgb(112, 111, 111);
+}
+h8{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+    text-shadow: 1px 1px 1px rgb(112, 111, 111);
+}
+.cacas{
+    background-color: rgb(216, 216, 213);
+    padding: 15px;
+}
+footer{
+    background-color: rgb(250, 239, 239);
+    padding: 30px;
+}
+h9{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+    text-shadow: 1px 1px 1px rgb(112, 111, 111); 
+}
+p{
+    color: rgb(49, 49, 49);
+    font-size: 13.5px;
+    text-shadow: 1px 1px 1px rgb(112, 111, 111); 
+} 
+p:hover{
+    transition: .4s;
+    font-size: 15px;
+}
+li:hover{
+    transition: .4s;
+    font-size: 15px;
+}
+.bibi{
+    opacity: .7;
+    height: 130px;
+    border-radius: 10px;
+}
+.bibi:hover{
+    opacity: .9;
+    border: dashed 5px rgb(83, 83, 83);
+    height: 140px;
+    transition: .3s;
+}
+.rara{
+    opacity: .7;
+    height: 130px;
+    border-radius: 10px;
+}
+.rara:hover{
+    opacity: .9;
+    border: dashed 5px rgb(83,83,83);
+    height: 140px;
+    transition: .3s;
+}
+.qiqi{
+    opacity: .7;
+    height: 150px;
+    border-radius: 10px;
+}
+.qiqi:hover{
+    opacity: .9;
+    border: dashed 5px rgb(83,83,83);
+    height: 160px;
+    transition: .3s;
+}
+
+
+
